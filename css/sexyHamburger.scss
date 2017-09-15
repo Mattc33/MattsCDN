@@ -1,0 +1,78 @@
+$backgroundColor: #000000;
+$border: 1px solid #ffffff;
+$hamburgerColor: #ffffff;
+$hamburgerLineWidth: 30px;
+$hamburgerLineHeight: 4px;
+$spaceBetweenHamburgers: 5px;
+
+body{
+	background-color: $backgroundColor;
+}
+
+.nav{ //
+	width: 60px;
+	height: 60px;
+	border: $border;
+	cursor: pointer;
+    position: absolute;
+	//centering in relation to DOC
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.hamburger{
+	position: absolute;
+	//center in relation to nav box
+	top: 50%;
+	left: 50%;
+	transform:translate(-50%,-50%);
+}
+
+.hamburger span{
+	display: block;
+	//toggleing
+	width: $hamburgerLineWidth;
+	height: $hamburgerLineHeight;
+	margin-bottom: $spaceBetweenHamburgers;
+	overflow: hidden; //hiding overflow that goes outside of the box
+	position: relative; //position the hamburger inside relative to the box itself without moving other elements
+}
+
+.hamburger span:last-child{
+	margin:0; //resets the margin-bottom to 0 for the last span
+}
+
+.hamburger span:before, .hamburger span:after{ //adding content before and after ea span element
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: $hamburgerColor;
+	transform: translateX(-200%);
+	transition: transform ease 300ms;
+}
+
+.hamburger span:after{
+	transform:translateX(0);
+}
+
+//animation
+
+//Adding delay to the 2nd and last span element to make the animation appear to be working in order
+.hamburger span:nth-child(2):before,.hamburger span:nth-child(2):after{
+	transition-delay: 150ms;
+}
+
+.hamburger span:last-child:before,.hamburger span:last-child:after{
+	transition-delay: 300ms;
+}
+
+.nav:hover .hamburger span:before{ //on hover of nav area the element before hamburger will transform back to zeroed position
+	transform: translateX(0);
+}
+
+.nav:hover .hamburger span:after{ //on hover of nav area the element after hamburger will transform back 200%
+	transform: translateX(200%);
+}
+
