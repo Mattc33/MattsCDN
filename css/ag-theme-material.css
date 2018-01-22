@@ -891,8 +891,6 @@
       display: inline-block; }
     .ag-theme-material .ag-header-cell-menu-button .ag-icon-menu {
       height: 56px; }
-    .ag-theme-material .ag-icon-checkbox-checked:empty {
-      /*background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHZpZXdCb3g9IjAgMCAxOCAxOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTYgMEgyYTIgMiAwIDAgMC0yIDJ2MTRhMiAyIDAgMCAwIDIgMmgxNGEyIDIgMCAwIDAgMi0yVjJhMiAyIDAgMCAwLTItMnpNNyAxNEwyIDlsMS40MS0xLjQxTDcgMTEuMTdsNy41OS03LjU5TDE2IDVsLTkgOXoiIGZpbGw9IiNGRjQwODEiLz48L3N2Zz4=);*/ }
     .ag-theme-material .ag-menu {
       background: #ffffff;
       border-radius: 2px;
