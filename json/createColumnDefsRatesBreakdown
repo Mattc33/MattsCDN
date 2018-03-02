@@ -1,0 +1,86 @@
+    // private createColumnDefsRatesBreakdown() {
+    //     return [
+    //         {
+    //             headerName: 'Prefix', field: 'prefix',
+    //             checkboxSelection: true, headerCheckboxSelection: true,
+    //             cellStyle: {
+    //                 'border-right': '1px solid #E0E0E0'
+    //             },
+    //         },
+    //         {
+    //             headerName: 'Tele-U', 
+    //             marryChildren: true,
+    //             children: [
+    //                 {
+    //                     headerName: 'Buy Rate', field: 'buy_rate', width: 150,
+    //                 },
+    //                 {
+    //                     headerName: 'Sell Rate', field: 'sell_rate', width: 150,
+    //                 },
+    //                 {
+    //                     headerName: 'Diff', width: 150,
+    //                     valueGetter: function(params) {
+    //                         const diff = (params.data.sell_rate - params.data.buy_rate);
+    //                         const percent = ((diff) / params.data.buy_rate) * 100;
+    //                         const diffFixed = diff.toFixed(4);
+    //                         const percentFixed = percent.toFixed(2);
+        
+    //                         return `${diffFixed}(${percentFixed}%)`;
+    //                     },
+    //                 }
+    //             ]
+    //         },
+    //         {
+    //             headerName: 'Default',
+    //             marryChildren: true,
+    //             children: [
+    //                 {
+    //                     headerName: 'Buy Rate', field: 'buy_rate', width: 150,
+    //                     cellStyle: {
+    //                         'border-left': '1px solid #E0E0E0'
+    //                     },
+    //                 },
+    //                 {
+    //                     headerName: 'Sell Rate', field: 'sell_rate', width: 150,
+    //                 },
+    //                 {
+    //                     headerName: 'Diff', width: 150,
+    //                     valueGetter: function(params) {
+    //                         const diff = (params.data.sell_rate - params.data.buy_rate);
+    //                         const percent = ((diff) / params.data.buy_rate) * 100;
+    //                         const diffFixed = diff.toFixed(4);
+    //                         const percentFixed = percent.toFixed(2);
+        
+    //                         return `${diffFixed}(${percentFixed}%)`;
+    //                     },
+    //                     cellStyle: {
+    //                         'border-right': '1px solid #E0E0E0'
+    //                     },
+    //                 }
+    //             ]
+    //         },
+    //         {
+    //             headerName: 'Private Offer',
+    //             marryChildren: true,
+    //             children: [
+    //                 {
+    //                     headerName: 'Buy Rate', field: 'buy_rate', width: 150,
+    //                 },
+    //                 {
+    //                     headerName: 'Sell Rate', field: 'sell_rate', width: 150,
+    //                 },
+    //                 {
+    //                     headerName: 'Diff', width: 150,
+    //                     valueGetter: function(params) {
+    //                         const diff = (params.data.sell_rate - params.data.buy_rate);
+    //                         const percent = ((diff) / params.data.buy_rate) * 100;
+    //                         const diffFixed = diff.toFixed(4);
+    //                         const percentFixed = percent.toFixed(2);
+        
+    //                         return `${diffFixed}(${percentFixed}%)`;
+    //                     },
+    //                 }
+    //             ]
+    //         }
+    //     ]
+    // }
