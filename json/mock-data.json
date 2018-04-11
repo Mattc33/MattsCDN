@@ -1,0 +1,186 @@
+[
+    {
+        "carrier_id": 1,
+        "carrier_name": "Carrier",
+        "carrier_tier": 1, 
+        "ratecard_id": 1,
+        "ratecard_name": "Afghanistan", 
+        "rating": 3, 
+        "quality_of_service": 3, 
+        "resellable": true, 
+        "carrier_coverage": false, 
+        "end_ts": 1514830268, 
+        "quantity_available": 50,
+        "popular_deals": true,
+        "rates": [
+            {
+                "prefix": "123",
+                "buy_rate": 0,
+                "sell_rate": 20
+            },
+            {
+                "prefix": "146",
+                "buy_rate": 0,
+                "sell_rate": 20
+            },
+            {
+                "prefix": "157",
+                "buy_rate": 0,
+                "sell_rate": 20
+            },
+            {
+                "prefix": "1004",
+                "buy_rate": 0,
+                "sell_rate": 26
+            },
+            {
+                "prefix": "15334",
+                "buy_rate": 0,
+                "sell_rate": 33
+            }
+        ]
+    },
+    {
+        "carrier_id": 2,
+        "carrier_name": "Carrier",
+        "carrier_tier": 2,
+        "ratecard_id": 2,
+        "ratecard_name": "Afghanistan", 
+        "rating": 4,
+        "quality_of_service": 3,
+        "resellable": true, 
+        "carrier_coverage": false,
+        "end_ts": 1517508668,
+        "quantity_available": 20,
+        "popular_deals": true,
+        "rates": [
+            {
+                "prefix": "123",
+                "buy_rate": 0,
+                "sell_rate": 50
+            },
+            {
+                "prefix": "146",
+                "buy_rate": 0,
+                "sell_rate": 70
+            },
+            {
+                "prefix": "157",
+                "buy_rate": 0,
+                "sell_rate": 10
+            },
+            {
+                "prefix": "179",
+                "buy_rate": 0,
+                "sell_rate": 10
+            }
+        ]
+    },
+    {
+        "carrier_id": 3,
+        "carrier_name": "Carrier",
+        "carrier_tier": 1,
+        "ratecard_id": 3,
+        "ratecard_name": "Afghanistan", 
+        "rating": 2,
+        "quality_of_service": 3,
+        "resellable": false, 
+        "carrier_coverage": true,
+        "end_ts": 1519927868,
+        "quantity_available": 30,
+        "popular_deals": false,
+        "rates": [
+            {
+                "prefix": "123",
+                "buy_rate": 0,
+                "sell_rate": 50
+            },
+            {
+                "prefix": "146",
+                "buy_rate": 0,
+                "sell_rate": 70
+            },
+            {
+                "prefix": "157",
+                "buy_rate": 0,
+                "sell_rate": 10
+            },
+            {
+                "prefix": "179",
+                "buy_rate": 0,
+                "sell_rate": 55
+            },
+            {
+                "prefix": "1597",
+                "buy_rate": 0,
+                "sell_rate": 66
+            },
+            {
+                "prefix": "1004",
+                "buy_rate": 0,
+                "sell_rate": 26
+            },
+            {
+                "prefix": "15334",
+                "buy_rate": 0,
+                "sell_rate": 33
+            }
+        ]
+    },
+    {
+        "carrier_id": 4,
+        "carrier_name": "Carrier",
+        "carrier_tier": 3,
+        "ratecard_id": 4,
+        "ratecard_name": "Afghanistan", 
+        "rating": 1,
+        "quality_of_service": 2,
+        "resellable": true, 
+        "carrier_coverage": false,
+        "end_ts": 1522602668,
+        "quantity_available": 60,
+        "popular_deals": false,
+        "rates": [
+            {
+                "prefix": "123",
+                "buy_rate": 0,
+                "sell_rate": 50
+            },
+            {
+                "prefix": "146",
+                "buy_rate": 0,
+                "sell_rate": 70
+            },
+            {
+                "prefix": "157",
+                "buy_rate": 0,
+                "sell_rate": 10
+            },
+            {
+                "prefix": "179",
+                "buy_rate": 0,
+                "sell_rate": 55
+            },
+            {
+                "prefix": "1597",
+                "buy_rate": 0,
+                "sell_rate": 66
+            },
+            {
+                "prefix": "1004",
+                "buy_rate": 0,
+                "sell_rate": 26
+            },
+            {
+                "prefix": "15334",
+                "buy_rate": 0,
+                "sell_rate": 33
+            },
+            {
+                "prefix": "1134",
+                "buy_rate": 0,
+                "sell_rate": 44                
+            }
+        ]
+    }
+]
