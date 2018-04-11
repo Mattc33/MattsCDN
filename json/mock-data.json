@@ -16,7 +16,7 @@
             {
                 "prefix": "123",
                 "buy_rate": 0,
-                "sell_rate": 20
+                "sell_rate": 5
             },
             {
                 "prefix": "146",
@@ -26,7 +26,7 @@
             {
                 "prefix": "157",
                 "buy_rate": 0,
-                "sell_rate": 20
+                "sell_rate": 19
             },
             {
                 "prefix": "1004",
@@ -36,7 +36,7 @@
             {
                 "prefix": "15334",
                 "buy_rate": 0,
-                "sell_rate": 33
+                "sell_rate": 43
             }
         ]
     },
@@ -62,17 +62,17 @@
             {
                 "prefix": "146",
                 "buy_rate": 0,
-                "sell_rate": 70
+                "sell_rate": 40
             },
             {
                 "prefix": "157",
                 "buy_rate": 0,
-                "sell_rate": 10
+                "sell_rate": 99
             },
             {
                 "prefix": "179",
                 "buy_rate": 0,
-                "sell_rate": 10
+                "sell_rate": 42
             }
         ]
     },
@@ -93,12 +93,12 @@
             {
                 "prefix": "123",
                 "buy_rate": 0,
-                "sell_rate": 50
+                "sell_rate": 55
             },
             {
                 "prefix": "146",
                 "buy_rate": 0,
-                "sell_rate": 70
+                "sell_rate": 34
             },
             {
                 "prefix": "157",
@@ -144,22 +144,22 @@
             {
                 "prefix": "123",
                 "buy_rate": 0,
-                "sell_rate": 50
+                "sell_rate": 21
             },
             {
                 "prefix": "146",
                 "buy_rate": 0,
-                "sell_rate": 70
+                "sell_rate": 14
             },
             {
                 "prefix": "157",
                 "buy_rate": 0,
-                "sell_rate": 10
+                "sell_rate": 11
             },
             {
                 "prefix": "179",
                 "buy_rate": 0,
-                "sell_rate": 55
+                "sell_rate": 29
             },
             {
                 "prefix": "1597",
