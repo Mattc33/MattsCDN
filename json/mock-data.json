@@ -118,7 +118,7 @@
             {
                 "prefix": "1004",
                 "buy_rate": 0,
-                "sell_rate": 26
+                "sell_rate": 7
             },
             {
                 "prefix": "15334",
@@ -169,12 +169,12 @@
             {
                 "prefix": "1004",
                 "buy_rate": 0,
-                "sell_rate": 26
+                "sell_rate": 35
             },
             {
                 "prefix": "15334",
                 "buy_rate": 0,
-                "sell_rate": 33
+                "sell_rate": 71
             },
             {
                 "prefix": "1134",
