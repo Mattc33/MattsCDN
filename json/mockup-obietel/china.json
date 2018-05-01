@@ -907,7 +907,7 @@
       ],
       "ratecard_id": 51,
       "ratecard_name": "RateCard51",
-      "rating": .8,
+      "rating": 1.8,
       "quality_of_service": 4,
       "resellable": true,
       "carrier_coverage": false,
