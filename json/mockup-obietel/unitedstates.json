@@ -1,0 +1,897 @@
+[
+    {
+      "carrier_id": 1,
+      "carrier_name": "Carrier1",
+      "carrier_tier": 1,
+      "white_list": [
+        3,
+        8,
+        9,
+        2
+      ],
+      "black_list": [
+        7,
+        4,
+        5,
+        6
+      ],
+      "ratecard_id": 1,
+      "ratecard_name": "RateCard1",
+      "rating": 5,
+      "quality_of_service": 3,
+      "resellable": true,
+      "carrier_coverage": true,
+      "end_ts": "2018-07-10T22:20:17Z",
+      "quantity_available": 0,
+      "popular_deals": false,
+      "rates": [
+        {
+          "prefix": "1201",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1202",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1203",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1205",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1206",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1207",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1208",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1209",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1212",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1215",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1215",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1231",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1234",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1252",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1256",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1352",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1636",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1650",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1651",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1657",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1659",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1660",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1661",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1662",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1667",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1669",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1678",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1679",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1681",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1682",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        },
+        {
+          "prefix": "1689",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00588
+        }
+      ]
+    },
+    {
+      "carrier_id": 2,
+      "carrier_name": "Carrier2",
+      "carrier_tier": 1,
+      "white_list": [
+        7,
+        4,
+        3,
+        8,
+        1,
+        5,
+        6
+      ],
+      "black_list": [
+        9
+      ],
+      "ratecard_id": 2,
+      "ratecard_name": "RateCard2",
+      "rating": 4.7,
+      "quality_of_service": 4,
+      "resellable": true,
+      "carrier_coverage": true,
+      "end_ts": "2018-07-10T22:20:17Z",
+      "quantity_available": 0,
+      "popular_deals": false,
+      "rates": [
+        {
+          "prefix": "1701",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1702",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1703",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1704",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1706",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1708",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1710",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1712",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1713",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1714",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1715",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1716",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1717",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1718",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1719",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1720",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1724",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1725",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1727",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1730",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1732",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1734",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1737",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1754",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1757",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1760",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1762",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1763",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1765",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        },
+        {
+          "prefix": "1769",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006125
+        }
+      ]
+    },
+    {
+      "carrier_id": 3,
+      "carrier_name": "Carrier3",
+      "carrier_tier": 2,
+      "white_list": [
+        8,
+        9,
+        6,
+        2
+      ],
+      "black_list": [
+        7,
+        4,
+        1,
+        5
+      ],
+      "ratecard_id": 3,
+      "ratecard_name": "RateCard3",
+      "rating": 3.8,
+      "quality_of_service": 3,
+      "resellable": true,
+      "carrier_coverage": true,
+      "end_ts": "2018-07-10T22:20:17Z",
+      "quantity_available": 0,
+      "popular_deals": false,
+      "rates": [
+        {
+          "prefix": "1770",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1772",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1773",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1774",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1775",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1779",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1781",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1785",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1786",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1800",
+          "buy_rate": 0,
+          "sell_rate": 0
+        },
+        {
+          "prefix": "1801",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1802",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1803",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1804",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1805",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1806",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1808",
+          "buy_rate": 0.0065,
+          "sell_rate": 0.00845
+        },
+        {
+          "prefix": "1810",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1813",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1814",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1815",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1816",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1817",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1818",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1828",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1830",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1831",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1832",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1843",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00637
+        },
+        {
+          "prefix": "1844",
+          "buy_rate": 0,
+          "sell_rate": 0
+        }
+      ]
+    },
+    {
+      "carrier_id": 4,
+      "carrier_name": "Carrier4",
+      "carrier_tier": 2,
+      "white_list": [
+        7,
+        3,
+        8,
+        9,
+        1,
+        5,
+        6
+      ],
+      "black_list": [
+        10
+      ],
+      "ratecard_id": 4,
+      "ratecard_name": "RateCard4",
+      "rating": 3.9,
+      "quality_of_service": 3,
+      "resellable": false,
+      "carrier_coverage": true,
+      "end_ts": "2018-07-10T22:20:17Z",
+      "quantity_available": 5000,
+      "popular_deals": false,
+      "rates": [
+        {
+          "prefix": "1845",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1847",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1848",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1850",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1854",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1855",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1856",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1857",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1858",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1859",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1860",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1862",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1863",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1864",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1865",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1866",
+          "buy_rate": 0,
+          "sell_rate": 0
+        },
+        {
+          "prefix": "1870",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1872",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1877",
+          "buy_rate": 0,
+          "sell_rate": 0
+        },
+        {
+          "prefix": "1878",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1888",
+          "buy_rate": 0,
+          "sell_rate": 0
+        },
+        {
+          "prefix": "1901",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1903",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1904",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1906",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1907",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1908",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1909",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1910",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        },
+        {
+          "prefix": "1912",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.006615
+        }
+      ]
+    },
+    {
+      "carrier_id": 5,
+      "carrier_name": "Carrier5",
+      "carrier_tier": 3,
+      "white_list": [
+        7,
+        4,
+        3,
+        8,
+        9,
+        1,
+        2
+      ],
+      "black_list": [
+        6
+      ],
+      "ratecard_id": 5,
+      "ratecard_name": "RateCard5",
+      "rating": 3.1,
+      "quality_of_service": 3,
+      "resellable": true,
+      "carrier_coverage": true,
+      "end_ts": "2018-07-10T22:20:17Z",
+      "quantity_available": 0,
+      "popular_deals": false,
+      "rates": [
+        {
+          "prefix": "1913",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1914",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1915",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1916",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1917",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1918",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1919",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1920",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1925",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1928",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1929",
+          "buy_rate": 0.0119,
+          "sell_rate": 0.01666
+        },
+        {
+          "prefix": "1930",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1931",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1936",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1937",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1938",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1940",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1941",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1947",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1949",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1951",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1952",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1954",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1956",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1959",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1970",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1971",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1972",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1973",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        },
+        {
+          "prefix": "1975",
+          "buy_rate": 0.0049,
+          "sell_rate": 0.00686
+        }
+      ]
+    }
+  ]

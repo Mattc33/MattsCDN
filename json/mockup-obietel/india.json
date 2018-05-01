@@ -1,0 +1,692 @@
+[
+    {
+      "carrier_id": 1,
+      "carrier_name": "Carrier1",
+      "carrier_tier": 1,
+      "white_list": [
+        7,
+        8,
+        5,
+        6
+      ],
+      "black_list": [
+        4,
+        3,
+        9,
+        2
+      ],
+      "ratecard_id": 41,
+      "ratecard_name": "RateCard41",
+      "rating": 3.6,
+      "quality_of_service": 3,
+      "resellable": true,
+      "carrier_coverage": true,
+      "end_ts": "2018-07-10T22:20:17Z",
+      "quantity_available": 0,
+      "popular_deals": false,
+      "rates": [
+        {
+          "prefix": "91",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "9111",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "91120",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "91121",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "91122",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "911232",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "911234",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "911237",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "91124",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "911250",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "911251",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "911252",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "911253",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "911254",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "911255",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "911257",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "911259",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "91126",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "91127",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "91128",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "91129",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        },
+        {
+          "prefix": "91130",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0084
+        }
+      ]
+    },
+    {
+      "carrier_id": 2,
+      "carrier_name": "Carrier2",
+      "carrier_tier": 1,
+      "white_list": [
+        7,
+        4,
+        3,
+        8,
+        9,
+        1
+      ],
+      "black_list": [
+        5,
+        10
+      ],
+      "ratecard_id": 42,
+      "ratecard_name": "RateCard42",
+      "rating": 2.9,
+      "quality_of_service": 3,
+      "resellable": true,
+      "carrier_coverage": true,
+      "end_ts": "2018-07-10T22:20:17Z",
+      "quantity_available": 0,
+      "popular_deals": false,
+      "rates": [
+        {
+          "prefix": "91",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "9111",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "91120",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "91121",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "91122",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "911232",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "911234",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "911237",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "91124",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "911250",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "911251",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "911252",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "911253",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "911254",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "911255",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "911257",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "911259",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "91126",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "91127",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "91128",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "91129",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        },
+        {
+          "prefix": "91130",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00875
+        }
+      ]
+    },
+    {
+      "carrier_id": 3,
+      "carrier_name": "Carrier3",
+      "carrier_tier": 2,
+      "white_list": [
+        7,
+        4,
+        9,
+        1,
+        5,
+        6,
+        2
+      ],
+      "black_list": [
+        8
+      ],
+      "ratecard_id": 43,
+      "ratecard_name": "RateCard43",
+      "rating": 4.1,
+      "quality_of_service": 4,
+      "resellable": true,
+      "carrier_coverage": true,
+      "end_ts": "2018-07-10T22:20:17Z",
+      "quantity_available": 0,
+      "popular_deals": false,
+      "rates": [
+        {
+          "prefix": "91",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "9111",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "91120",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "91121",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "91122",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "911232",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "911234",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "911237",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "91124",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "911250",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "911251",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "911252",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "911253",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "911254",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "911255",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "911257",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "911259",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "91126",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "91127",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "91128",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "91129",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        },
+        {
+          "prefix": "91130",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0091
+        }
+      ]
+    },
+    {
+      "carrier_id": 4,
+      "carrier_name": "Carrier4",
+      "carrier_tier": 2,
+      "white_list": [
+        7,
+        3,
+        1,
+        5,
+        6
+      ],
+      "black_list": [
+        8,
+        9,
+        10
+      ],
+      "ratecard_id": 44,
+      "ratecard_name": "RateCard44",
+      "rating": 3.6,
+      "quality_of_service": 3,
+      "resellable": true,
+      "carrier_coverage": false,
+      "end_ts": "2018-07-10T22:20:17Z",
+      "quantity_available": 0,
+      "popular_deals": false,
+      "rates": [
+        {
+          "prefix": "91",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "9111",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "91120",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "91121",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "91122",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "911232",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "911234",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "911237",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "91124",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "911250",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "911251",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "911252",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "911253",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "911254",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "911255",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "911257",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "911259",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "91126",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "91127",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "91128",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "91129",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        },
+        {
+          "prefix": "91130",
+          "buy_rate": 0.007,
+          "sell_rate": 0.00945
+        }
+      ]
+    },
+    {
+      "carrier_id": 5,
+      "carrier_name": "Carrier5",
+      "carrier_tier": 3,
+      "white_list": [
+        7,
+        4,
+        3,
+        8,
+        2
+      ],
+      "black_list": [
+        9,
+        1,
+        6
+      ],
+      "ratecard_id": 45,
+      "ratecard_name": "RateCard45",
+      "rating": 3.5,
+      "quality_of_service": 3,
+      "resellable": true,
+      "carrier_coverage": true,
+      "end_ts": "2018-07-10T22:20:17Z",
+      "quantity_available": 0,
+      "popular_deals": false,
+      "rates": [
+        {
+          "prefix": "91",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "9111",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "91120",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "91121",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "91122",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "911232",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "911234",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "911237",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "91124",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "911250",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "911251",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "911252",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "911253",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "911254",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "911255",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "911257",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "911259",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "91126",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "91127",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "91128",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "91129",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        },
+        {
+          "prefix": "91130",
+          "buy_rate": 0.007,
+          "sell_rate": 0.0098
+        }
+      ]
+    }
+  ]
