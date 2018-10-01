@@ -49499,8 +49499,74 @@
       "Prefix": 26096,
       "Destination": "ZAMBIA MOBILE MTN"
     },
+
     {
-      "Prefix": 26095,
-      "Destination": "ZAMBIA MOBILE ZAMTEL"
+      "Prefix": 1876490,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876491,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876492,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876493,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876495,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876496,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876497,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+
+    {
+      "Prefix": 1876590,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876591,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876592,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876593,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876594,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876595,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876596,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876597,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876598,
+      "Destination": "JAMAICA DIGICEL MOBILE"
+    },
+    {
+      "Prefix": 1876599,
+      "Destination": "JAMAICA DIGICEL MOBILE"
     }
   ]
