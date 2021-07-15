@@ -1,0 +1,83 @@
+{
+   "TableName": "Result",
+   "Columns": [
+      "Date",
+      "random",
+      "Node0",
+      "Node1",
+      "B1",
+      "B2",
+      "B3",
+      "random2",
+      "B4",
+      "PL",
+      "TradingAsset"
+   ],
+   "Rows": [
+      [
+         "2020-01-02T00:00:00",
+         "random",
+         "3050",
+         "AT",
+         "GMMS",
+         "GMMS MACRO",
+         "GMMS IR Structural",
+         "random2",
+         "Austria 30/70 Flt EUR 26OCT16",
+         14291681.672925556,
+         4350000000.0000019
+      ],
+      [
+         "2020-01-02T00:00:00",
+         "random",
+         "3050",
+         "AT",
+         "GMMS",
+         "GMMS MACRO",
+         "GMMS IR Structural",
+         "random2",
+         "Austria 30/70 Flt EUR 26OCT16",
+         14291681.672925556,
+         4350000000.0000019
+      ],
+      [
+         "2020-01-02T00:00:00",
+         "random",
+         "3050",
+         "AT",
+         "GMMS",
+         "GMMS MACRO",
+         "GMMS IR Structural",
+         "random2",
+         "Austria 30/70 Flt EUR 26OCT16",
+         14291681.672925556,
+         4350000000.0000019
+      ],
+      [
+         "2020-01-02T00:00:00",
+         "random",
+         "3050",
+         "AT",
+         "GMMS",
+         "GMMS MACRO",
+         "GMMS IR Structural",
+         "random2",
+         "Austria 30/70 Flt EUR 26OCT16",
+         14291681.672925556,
+         4350000000.0000019
+      ],
+      [
+         "2020-01-02T00:00:00",
+         "random",
+         "3050",
+         "AT",
+         "GMMS",
+         "GMMS MACRO",
+         "GMMS IR Structural",
+         "random2",
+         "Austria 30/70 Flt EUR 26OCT16",
+         14291681.672925556,
+         4350000000.0000019
+      ]
+   ]
+}
